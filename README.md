@@ -4,9 +4,9 @@ Welcome to the **Full-Stack eCommerce Platform**, a modern and scalable online s
 
 ## 🚀 Features
 
-### 🛂 User Features
-- 🍽️ Browse and search products easily
-- 🔍 Filter and sort products by category, price, and more
+### 👤 User Features
+- 🔍 Browse and search products easily
+- 🔄 Filter and sort products by category, price, and more
 - 🏷️ Select product variants (e.g., size, color)
 - 🛒 Add products to the cart and proceed to checkout
 - 📦 Place orders with a delivery address
